@@ -1,0 +1,23 @@
+{
+  "folders":
+  [
+    {
+      "file_exclude_patterns":
+      [
+        "*.sublime-workspace",
+        "*.sublime-project",
+        "*.pyc",
+        "*.min.js",
+        "*.scssc",
+        "*.css",
+        "*.map",
+        "*.lock",
+      ],
+      "folder_exclude_patterns": [
+        "node_modules",
+        ".sass-cache",
+      ],
+      "path": "."
+    }
+  ]
+}
